@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ytnjcfwj2-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ytnjcfwj2-nodejs-gitops
